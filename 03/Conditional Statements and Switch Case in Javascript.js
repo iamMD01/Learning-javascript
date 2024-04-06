@@ -77,3 +77,4 @@ switch (opt) {
 }
 
 console.log("just some useless mind scraching")
+console.log("another head scratching")
