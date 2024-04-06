@@ -75,3 +75,5 @@ switch (opt) {
     console.log(a - b);
   // and so on
 }
+
+console.log("just some useless mind scraching")
