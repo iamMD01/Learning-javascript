@@ -10,7 +10,6 @@
   "extension.smoothscroll.totalDelay": 50,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "cSpell.words": ["Alam", "atleast", "exessing", "Vname"]
 }
-
-

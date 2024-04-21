@@ -4,7 +4,7 @@
 
 const age = 29;
 if (age >= 80) {
-  console.log("You are not eligible for voting cuz u are an sinior citizen");
+  console.log("You are not eligible for voting cuz u are an senior citizen");
 } else if (age >= 18) {
   console.log("You are eligible for voting");
 }
@@ -29,11 +29,11 @@ if (age1 >= 18) {
 age1 >= 18 ? console.log("yes") : console.log("no");
 //         |-> this is ternary  |--> this is else
 // this type of operator is useful when we have
-// exac yes or no
+// exact yes or no
 
 // switch statement
 // you know, when we call on some helpline no. then
-// we get some options like change laguages , talk
+// we get some options like change languages , talk
 // about other options and so on .
 // So behind we use switch statements like things
 //  for example :-
@@ -45,7 +45,7 @@ switch (option) {
       console.log("You are in case 1");
     }
     break;
-  // if breake is not there then switch
+  // if break is not there then switch
   // will print all the things after the
   // passed options
   case 2:
@@ -76,5 +76,5 @@ switch (opt) {
   // and so on
 }
 
-console.log("just some useless mind scraching")
+console.log("just some useless mind scratching")
 console.log("another head scratching")

@@ -1,4 +1,4 @@
-//  in javascript we have three ways to declare variables in javaacript
+//  in javascript we have three ways to declare variables in javascript
 //  var, let & const
 var age = 50;
 console.log(age);
@@ -38,7 +38,7 @@ if (true){
 //  we can do things like that in const
 // 1. it is local
 // 2. it  cannot be reassigned
-//  we have to initialize the value in frist step
+//  we have to initialize the value in first step
 
 if (true){
     const d = 30

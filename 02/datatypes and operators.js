@@ -21,11 +21,11 @@ console.log(num * num2);
 console.log(num / num2);
 
 // 2.Strings
-const fristName = "MD";
+const firstName = "MD";
 const lastName = "Aaftab Alam";
-console.log(fristName + lastName);
+console.log(firstName + lastName);
 // for adding spaces in between them
-console.log(fristName + "", lastName);
+console.log(firstName + "", lastName);
 
 // 3.Booleans
 //  it is basically true and false things or
@@ -57,7 +57,7 @@ console.log(isLastLoggedIn2);
 //  in objects we store key value pairs
 const person = {
   age: 21,
-  fristName: "MD",
+  firstName: "MD",
   Gender: "Male",
   isLoggedIn: false,
   isLastLoggedIn: null,
@@ -69,15 +69,15 @@ console.log(person.age);
 // some more interesting things in javascript 😎
 // let say there is a string '1'+ '1'
 //  what  should be the output of this
-//  11 because string concatinate at + but
+//  11 because string concatenate at + but
 
 let a = "1";
 let b = "2";
 let c = 3;
 console.log(a + b);
-//  so it concatonated but
+//  so it concatenated but
 console.log("1" + 1);
-//  still concatinating and the datatype is string 😁, but
+//  still concatenating and the datatype is string 😁, but
 console.log("1" * 1);
 console.log("176" * 1);
 // now it is become an number , wow
