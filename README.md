@@ -20,6 +20,6 @@
 
 21/Apr/2024 as day 4 
 
-    Hello there, i have been inconsistent for 15 days, but today i have revised all the stuff 
+    Hello there, i have been inconsistent for 14 days, but today i have revised all the stuff 
     and also i have learned about Logical operators, From now i will be never inconsistent and 
     i will make it my habit to do these stuff.
