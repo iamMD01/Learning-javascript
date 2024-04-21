@@ -11,5 +11,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "cSpell.words": ["Alam", "atleast", "exessing", "Vname"]
+  "cSpell.words": ["Alam", "atleast", "datatypes", "exessing", "Vname"]
 }
