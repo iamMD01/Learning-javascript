@@ -18,9 +18,9 @@ for (let i = 1; i <= 10; i = i + 1)
   console.log("sam " + i);
 }
 
-/* While loop
- when we know the condition but we don't know the that how much iterations 
- it will take or time is unknown.
+// While loop
+/* when we know the condition but we don't know the that how much iterations 
+   it will take or time is unknown.
 */
 
 /*
@@ -32,7 +32,21 @@ requires to get there.
 let startposition = 0 /* our starting point is 0 */
 let endposition = 15 /* let say our destination is 15 km away */
 
+//    |--------------------------| -> 1. Condition 
 while(startposition != endposition){
+// |---------------------------| -> 2. Run the code
   startposition = startposition+1
   console.log("Step taken " + startposition)
 }
+
+// DO WHILE
+/**
+  Do while is  similar to while loop but there is only one thing is different
+  and that is, in while we check the condition first then execute the code, but
+  in Do while we run the code then we check the condition 
+ */
+
+do {
+  startposition = startposition + 1;
+  console.log("Step taken " + startposition);
+} while (startposition <= endposition);
