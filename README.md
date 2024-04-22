@@ -23,3 +23,7 @@
     Hello there, i have been inconsistent for 14 days, but today i have revised all the stuff 
     and also i have learned about Logical operators, From now i will be never inconsistent and 
     i will make it my habit to do these stuff.
+
+22/Apr/2024 as day 5
+
+    Hello there, this is my day 5 and today i learned about While, For and Do while loops.
