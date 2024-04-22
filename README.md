@@ -26,4 +26,4 @@
 
 22/Apr/2024 as day 5
 
-    Hello there, this is my day 5 and today i learned about While, For and Do while loops.
+    Hello there, this is my day 5 and today i learned about While, For and Do while loops and some console prompts as well.
