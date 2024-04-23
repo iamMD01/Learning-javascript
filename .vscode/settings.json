@@ -12,6 +12,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "cSpell.words": [
+    "addmany",
     "Alam",
     "atleast",
     "datatypes",
@@ -20,6 +21,7 @@
     "exessing",
     "sayhello",
     "startposition",
+    "sumnumbers",
     "Vname"
   ]
 }
