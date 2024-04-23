@@ -28,3 +28,8 @@
 
     Hello there, this is my day 5 and today i learned about While, For and Do
     while loops and some console prompts as well.
+
+23/Apr/2024 as day 6
+
+    Hello there today i learned about functions and some production things for 
+    further implementation if the functions.
