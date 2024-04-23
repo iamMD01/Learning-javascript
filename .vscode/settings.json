@@ -13,6 +13,8 @@
   "editor.formatOnSave": true,
   "cSpell.words": [
     "addmany",
+    "addmanymany",
+    "addmanyv",
     "Alam",
     "atleast",
     "datatypes",

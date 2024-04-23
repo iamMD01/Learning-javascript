@@ -65,7 +65,7 @@ console.log(b)
 function addmany(){
     let ans = 0
     // making a for loop for adding the arguments
-    //          |-> length of the argument and then add by +1 each time(from indexing)
+    //          |-> length of the argument and then increment by +1 each time(from indexing)
     for(i= 0;i<arguments.length;i++){
         // add ans to arguments of i 
         ans = ans+arguments[i]
@@ -73,6 +73,17 @@ function addmany(){
     return ans
 
 }
-let result = addmany(23,32,1,21,34,3434,54,523,443,53)
-console.log(result)
+let re = addmany(23,32,1,21,34,3434,54,523,443,53)
+console.log(re)
 
+//  but-but we can do this with spread operators,like
+//                  |--> this is spread operator, it can take many arguments and we can name it as we want
+function addmanyv2(...addmanymany){
+    let ans = 0
+    for(let i = 0;i<addmanymany.length;i++){
+        ans = ans + addmanymany[i]
+    }
+    return  ans
+}
+ let result = addmanyv2(12,435,34,2,5,345,23354,53)
+ console.log(result)
