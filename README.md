@@ -33,3 +33,7 @@
 
     Hello there today i learned about functions and some production things for 
     further implementation if the functions.
+
+24/Apr/2024 as day 7
+
+    Hello there , today i learned about Arrow function and some best practices for it.
