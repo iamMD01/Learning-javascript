@@ -37,3 +37,8 @@
 24/Apr/2024 as day 7
 
     Hello there , today i learned about Arrow function and some best practices for it.
+
+25/Apr/2024 as day 8,9,10
+
+    Hello there, today i learned about Higher order functions, Arrays, higher 
+    order function in arrays, callbacks and some built in functions as well.
