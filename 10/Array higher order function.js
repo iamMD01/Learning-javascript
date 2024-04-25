@@ -4,4 +4,4 @@ console.log(myarray[0]);
 // This is simple array
 
 // now some cool things
-myarray.forEach()
+myarray.forEach((val) => console.log(val +" d"));
