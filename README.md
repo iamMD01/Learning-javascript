@@ -42,3 +42,7 @@
 
     Hello there, today i learned about Higher order functions, Arrays, higher 
     order function in arrays, callbacks and some built in functions as well.
+
+26/Apr/2024 as day 11
+
+    Hello there. today i have learned about Basics of DOM.
