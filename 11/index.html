@@ -1,11 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <script src="Introduction to DOM.js"></script>
-</body>
+  </head>
+  <body>
+    <h3></h3>
+    <script>
+      alert("This is alerts");
+      //   to take input, we can use promt
+      const value = "MD";
+      prompt("Enter your are", "MD");
+      //                          |--> this is default text inside input field.
+      console.log(value);
+      //   this will take data from the input field and sent it to console.
+      console.log(document);
+      document.title = "MD";
+      // with this i can change the title of the tab
+      const name = prompt("Enter your name");
+      document.write("Hello " + name);
+    </script>
+  </body>
 </html>
