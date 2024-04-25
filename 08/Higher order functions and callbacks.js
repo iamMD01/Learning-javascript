@@ -33,3 +33,4 @@ add3(42, 234,(val)=>console.log(val));
 // These things are used when our function will take some time to do it stuff 
 // for that things we use callbacks as if the result is avialable and then we can 
 // console.log it as well. 
+// 
