@@ -17,22 +17,33 @@
     <script>
       // query selector
       /*
-    selectors
-    - tag name
-    - id #
-    - class
-    */
-      const body = document.querySelector("body");
+      selectors
+      - tag name
+      - id #
+      - class
+      */
+      const username = document.querySelector("#username");
+      console.log((username.innerText = "sam"));
+      // accesing class elements
+      // const ele = document.querySelector(".paragraph");
+      // ele.forEeach((e) => {
+        // console.log(e.innerHTML);
+      // });
+      // this is id selector
+      // const body = document.querySelector("body");
       // body.innerHTML = "<h1>Hacked!!</h1>";
       // this line of code has deleted the main code.
       // for accesing the code of innerhtml
       // console.log(body.innerHTML);
       // for div content
-      const div = document.querySelector("div")
+      // const div = document.querySelector("div")
+      // this queryselector will select those tags that have come first in the code.
       // or some cool thing like
-      div.innerHTML = "<h1>This is 😆</h1>"
-      console.log(div.innerHTML)
+      // div.innerHTML = "<h1>This is 😆</h1>"
+      // console.log(div.innerHTML)
       // console.log(body);
+      const div = document.querySelectorAll("div");
+      console.log(div);
     </script>
   </body>
 </html>
