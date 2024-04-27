@@ -51,3 +51,8 @@
 
     Hello there, today i learned about query selector,selecting elements by id's,
     getting element by name and event listeners. 
+
+28/Apr/2024 as day 16
+
+    Hello there, today i learned about dynamic elements in js where i have been 
+    able to add those line which is not in the actual code 🤯🤯🤯.
