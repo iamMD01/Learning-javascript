@@ -46,3 +46,7 @@
 26/Apr/2024 as day 11
 
     Hello there. today i have learned about Basics of DOM.
+
+27/APr/2024 as day 12,13,14,15
+
+    Hello there, today i learned about query selector,selecting elements by id's,getting element by name and event listeners. 
