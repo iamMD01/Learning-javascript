@@ -49,4 +49,5 @@
 
 27/APr/2024 as day 12,13,14,15
 
-    Hello there, today i learned about query selector,selecting elements by id's,getting element by name and event listeners. 
+    Hello there, today i learned about query selector,selecting elements by id's,
+    getting element by name and event listeners. 
