@@ -67,3 +67,9 @@
     Hello there, today i learned about api calling and some built it function to 
     get inner data that we want to display on the window.
     This is really amazing 😍😍😍😍
+
+
+28/Apr/2024 as day 19 
+
+    Hello there, today i learned about local storage and 
+    it's built in functions.
