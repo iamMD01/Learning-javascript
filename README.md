@@ -73,3 +73,8 @@
 
     Hello there, today i learned about local storage and 
     it's built in functions.
+
+28/Apr/2024 as day 20
+
+    Hello there, today i learned about getting current location of the
+    user and showing them in window with temperature.
