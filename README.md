@@ -78,3 +78,8 @@
 
     Hello there, today i learned about getting current location of the
     user and showing them in window with temperature.
+
+28/Apr/2024 as day 21 
+
+    Hello there, today i learned about set interval and set timeout
+    and with the help of chat gpt i have made it's ui beautiful.
