@@ -56,3 +56,7 @@
 
     Hello there, today i learned about dynamic elements in js where i have been 
     able to add those line which is not in the actual code 🤯🤯🤯.
+
+28/APR/2024 as day 17
+
+    Hello there, today i learned about promises , sync, async and await funtion  
