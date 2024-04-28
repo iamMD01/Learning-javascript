@@ -59,4 +59,11 @@
 
 28/APR/2024 as day 17
 
-    Hello there, today i learned about promises , sync, async and await funtion  
+    Hello there, today i learned about promises , sync, async and await funtion 
+
+
+28/Apr/2024 as day 18
+
+    Hello there, today i learned about api calling and some built it function to 
+    get inner data that we want to display on the window.
+    This is really amazing 😍😍😍😍
