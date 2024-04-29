@@ -9,6 +9,11 @@ function init() {
   function displayNmae() {
     console.log(name);
   }
-  displayNmae()
+  return displayNmae;
 }
-init();
+let a = init();
+
+a();
+a();
+a();
+
