@@ -60,6 +60,10 @@
     and it's built in functions,getting current location of the user and showing 
     them in window with temperature and set interval and set timeout in Javascript.
 
-29/Apr/2024 as day 22,23
+29/Apr/2024 as day 22
 
-    Hello there , today i learned about clousers,currying in javascript
+    Hello there , today i learned about clousers in javascript
+
+30/APr/2024 as day 23
+
+      Hello there , today i learned about currying in javascript
