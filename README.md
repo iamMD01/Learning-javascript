@@ -52,37 +52,13 @@
     Hello there, today i learned about query selector,selecting elements by id's,
     getting element by name and event listeners. 
 
-28/Apr/2024 as day 16
+28/Apr/2024 as day 16,17,18,19,20,21
 
-    Hello there, today i learned about dynamic elements in js where i have been 
-    able to add those line which is not in the actual code 🤯🤯🤯.
-
-28/APR/2024 as day 17
-
-    Hello there, today i learned about promises , sync, async and await funtion 
-
-
-28/Apr/2024 as day 18
-
-    Hello there, today i learned about api calling and some built it function to 
-    get inner data that we want to display on the window.
-    This is really amazing 😍😍😍😍
-
-
-28/Apr/2024 as day 19 
-
-    Hello there, today i learned about local storage and 
-    it's built in functions.
-
-28/Apr/2024 as day 20
-
-    Hello there, today i learned about getting current location of the
-    user and showing them in window with temperature.
-
-28/Apr/2024 as day 21 
-
-    Hello there, today i learned about set interval and set timeout
-    and with the help of chat gpt i have made it's ui beautiful.
+    Hello there, today i learned about dynamic elements,promises , sync, async
+    and await funtion, learned about api calling and some built it function to 
+    get inner data that we want to display on the window 😍😍😍😍, local storage 
+    and it's built in functions,getting current location of the user and showing 
+    them in window with temperature and set interval and set timeout in Javascript.
 
 29/Apr/2024 as day 22,23
 
