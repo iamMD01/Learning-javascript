@@ -26,6 +26,9 @@ function add1(a) {
 }
 console.log(add1(2)(5)(7));
 
+const add2 = (a) => (b) => (c) => a+b+c
+console.log(add2(55)(232)(32))
+
 // here we have curryed a,b and c until we get there
 // parameter to solve .
 
@@ -43,3 +46,13 @@ let step1 = sendautoemail("test@gmail.com");
 let step2 = step1("New order confirmed");
 
 step2("Hey there, order confirmed");
+
+// 😎😎😎 some mordern methods to do currying in js for production
+
+const sendautoemail2 = (to) => (subject) => (body) =>
+  `Sending email to ${to} with subject ${subject}: ${body}`;
+
+let stepA = sendautoemail2("test2@gmail.com");
+let stepB = stepA("New order not");
+
+console.log(stepB("Hey there, your is not order confirmed"))
