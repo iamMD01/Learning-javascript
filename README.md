@@ -83,3 +83,7 @@
 
     Hello there, today i learned about set interval and set timeout
     and with the help of chat gpt i have made it's ui beautiful.
+
+29/Apr/2024 as day 22
+
+    Hello there , today i learned about clousers in javascript
