@@ -64,6 +64,7 @@
 
     Hello there , today i learned about clousers in javascript
 
-30/Apr/2024 as day 23
+30/Apr/2024 as day 23,24
 
-      Hello there , today i learned about currying in javascript
+      Hello there , today i learned about Currying, Composition 
+      functions  in javascript
