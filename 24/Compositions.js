@@ -66,3 +66,5 @@ console.log(task2(5, 7));
 
 const task3 = unlimitedcompose1(multiply1);
 console.log(task3(6, 6));
+
+// so this was the  composition
