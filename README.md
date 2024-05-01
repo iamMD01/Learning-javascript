@@ -68,3 +68,7 @@
 
       Hello there , today i learned about Currying, Composition 
       functions  in javascript
+
+1/May/2024 as day 25
+
+    Hello there, today i learned about IFFE.
