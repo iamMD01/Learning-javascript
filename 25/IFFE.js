@@ -11,4 +11,4 @@ const value = (() => 100)();
 console.log(value);
 // see mdn docs and  video 27
 
-// TODO: Learn it again
+// TODO: Learn it again.
