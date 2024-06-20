@@ -1,0 +1,81 @@
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px; width: 300px;">
+<h4>Result Summary</h4>
+<table>
+<tr>
+<td><b>Student Name:</b></td>
+<td>{{ studentName }}</td>
+</tr>
+<tr>
+<td><b>Student ID:</b></td>
+<td>{{ studentID }}</td>
+</tr>
+<tr>
+<td><b>Semester/Exam Name:</b></td>
+<td>{{ semesterExamName }}</td>
+</tr>
+<tr>
+<td><b>Result Status:</b></td>
+<td>{{ resultStatus }}</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px; width: 500px;">
+<h4>Subject-wise Performance</h4>
+<table>
+<tr>
+<th>Subject</th>
+<th>Marks Obtained</th>
+<th>Maximum Marks</th>
+<th>Percentage</th>
+</tr>
+{{# subjects }}
+<tr>
+<td>{{ subjectName }}</td>
+<td>{{ marksObtained }}</td>
+<td>{{ maximumMarks }}</td>
+<td>{{ percentage }}%</td>
+</tr>
+{{/ subjects }}
+</table>
+</div>
+
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px; width: 300px;">
+<h4>Overall Performance</h4>
+<table>
+<tr>
+<td><b>Total Marks Obtained:</b></td>
+<td>{{ totalMarksObtained }}</td>
+</tr>
+<tr>
+<td><b>Total Maximum Marks:</b></td>
+<td>{{ totalMaximumMarks }}</td>
+</tr>
+<tr>
+<td><b>Overall Percentage:</b></td>
+<td>{{ overallPercentage }}%</td>
+</tr>
+<tr>
+<td><b>Grade:</b></td>
+<td>{{ grade }}</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px; width: 500px;">
+<h4>Graphical Representation</h4>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 40%;">
+<canvas id="bar-chart" width="200" height="200"></canvas>
+<script>
+// Bar chart implementation using a library like Chart.js
+</script>
+</div>
+<div style="width: 40%;">
+<canvas id="pie-chart" width="200" height="200"></canvas>
+<script>
+// Pie chart implementation using a library like Chart.js
+</script>
+</div>
+</div>
+</div>
